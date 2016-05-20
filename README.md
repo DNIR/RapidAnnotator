@@ -1,5 +1,5 @@
 # RapidAnnotator
-The Red Hen Rapid Annotator is a tool for fast and simple classification of items
+The Red Hen Rapid Annotator is a web application for fast and simple classification of images.
 
 ## Getting started
 1. Clone the repository to `your_document_root/annotator`.
