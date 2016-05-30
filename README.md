@@ -7,3 +7,5 @@ The Red Hen Rapid Annotator is a web application for fast and simple classificat
 3. Make sure `json_annotator.cgi` is executable by the web server.
 4. Edit `documentation.html` to match your configuration and read it so you can set the appropriate directory permissions.
 5. Try it by going to http://YOURSERVER/annotator/annotator.html?dataset=sample&paramset=gender&user=testuser.
+
+For detailed object annotation, see https://github.com/CSAILVision/LabelMeAnnotationTool  
